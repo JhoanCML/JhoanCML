@@ -1,4 +1,4 @@
-# About me
+# Hello! I'm Jhoan C.L.
 
 - 🔭 I’m currently working on MegaFlux
 - 🌱 I’m currently learning AUTOSAR
